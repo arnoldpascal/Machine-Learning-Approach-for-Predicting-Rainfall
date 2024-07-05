@@ -1,6 +1,6 @@
 # Rainfall Prediction using Machine Learning Web App
 
-# Description
+## Description
 
 This project implements a machine learning-powered web application for rainfall prediction. Users can input data similar to the training dataset, and the app leverages a trained model to predict rainfall probability.
 
